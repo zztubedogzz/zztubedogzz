@@ -7,7 +7,15 @@ I have great experience in maintaining windows and linux operating systems. Even
 Docker, Kubernetes knowledge/experience is my next goal to achieve, and master.
 
 ## Experience
-$ `tail /var/work/latest.log`
+``` console title="foo@bar:~$ tail /var/work/latest.log"
+```
+
+``` py title="bubble_sort.py"
+def bubble_sort(items):
+    for i in range(len(items)):
+        for j in range(len(items) - 1 - i):
+            if items[j] > items[j + 1]:
+                items[j], items[j + 1] = items[j + 1], items[j]
 ```
 Full-time
 Csepel City Administrator Nonprofit Zrt. | Feb 2022 - Currently • 8 mos
