@@ -1,8 +1,8 @@
 # 👨‍💻 Kemény Máté 👨‍💻
 📞 +36-20-440-1943 | 📧 kemeny.mate@mensa.hu | 🌐 https://cv.tubedog.hu | 🔗 https://www.linkedin.com/in/tubedog/
 
-## 📝 Description
-I am an IT professional looking to broaden my knowledge. As I have already worked in various environments, I have great experience in maintaining windows and linux operating systems. Even with virtualization. ==Docker, Kubernetes== knowledge/experience is my next goal to achieve, and master.
+## 📝 Description / Goals ⚽
+I am an IT professional looking to broaden my knowledge. As I have already worked in various environments, I have great experience in maintaining windows and linux operating systems. Even with virtualization. Docker, Kubernetes knowledge/experience is my next goal to achieve, and master.
 
 ## 💼 Experience
 ```console
@@ -61,11 +61,13 @@ foo@bar~$ cat /var/log/work/archive_2.log
 >
 
 ## 💬🗨️Communication
-I consider myself haiving a higher than average general communication skill, and I am always able to make a bad joke. [^1]
-
-[^1] Brain melting dad jokes or situational comedy. I manage my inner clown according to the room.
+I consider myself haiving a higher than average general communication skill.
 
 My primary language is Hungarian. [🇭🇺]
 
 I passed on Terc B2 English with a score of 86% [🇺🇸]
 
+## 👨‍🎓 Studies
+1. ***MSZC Bláthy Ottó villamosipari szakgimmnáziuma*** `OKJ - Systems Administrator profession` • 2019
+2. ***Miskolci Egyetem Gépészkar*** `Computer engineer Bsc` - unfinished • 2018
+3. ***Bláthy Ottó villamosipari szakközépiskola*** - `Computer service profession` + `Middle school Final` • 2018 
