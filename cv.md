@@ -2,11 +2,10 @@
 📞 +36-20-440-1943 | 📧 kemeny.mate@mensa.hu | 🌐 https://cv.tubedog.hu | 🔗 https://www.linkedin.com/in/tubedog/
 
 ## Description
-```
 I am an IT professional looking to broaden my knowledge. As I have already worked in various environments,
 I have great experience in maintaining windows and linux operating systems. Even with virtualization.
 Docker, Kubernetes knowledge/experience is my next goal to achieve, and master.
-```
+
 
 ## Experience
 $ `tail /var/work/latest.log`
