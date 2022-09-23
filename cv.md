@@ -6,7 +6,6 @@ I am an IT professional looking to broaden my knowledge. As I have already worke
 I have great experience in maintaining windows and linux operating systems. Even with virtualization.
 Docker, Kubernetes knowledge/experience is my next goal to achieve, and master.
 
-
 ## Experience
 $ `tail /var/work/latest.log`
 ```
@@ -21,6 +20,7 @@ Introduced GLPI, an ITSM platform for ticketing, inventory, deployments, knowled
 Introduction of Nextcloud file sharing portal, to reduce email traffic.
 ```
 
+
 $ `tail /var/work/latest_1.log`
 ```
 Part-time
@@ -31,6 +31,7 @@ Running regular CVE checks, reporing system deficiencies to system administrator
 Achievements:
 Uncovering major system security risks, and preventing possible data leak.
 ```
+
 
 $ `cat /var/work/archive_2.log`
 ```
@@ -45,6 +46,7 @@ Introducing Zabbix monitoring kiosk for the National Ambulance Service's IT depa
 agents to all hypervisor servers.
 ```
 
+
 & `cat /var/work/archive_1.log`
 ```
 Full-time
@@ -53,6 +55,7 @@ Title: Junior Systems Administrator
 Description:
 
 ```
+
 
 ## Studies
 
